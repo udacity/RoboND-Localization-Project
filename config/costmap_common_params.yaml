@@ -5,7 +5,6 @@ raytrace_range: 0.0
 
 transform_tolerance: 0.0
 
-robot_radius: 0.0 
 inflation_radius: 0.0
 
 observation_sources: laser_scan_sensor
